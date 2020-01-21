@@ -1,7 +1,6 @@
-# Abhishek Podili
+# Joyson P S
 
 This repo contains an my personal and professional information.
 
-To view a live demo, [click here](https://abhishekpodili.github.io/AbhishekPodili/).
+To view a live demo, [click here](https://joysonjson.github.io/joysonjson/).
 
-<!-- Looking for a blog template? Checkout [DevBlog](https://github.com/RyanFitzgerald/devblog). -->
