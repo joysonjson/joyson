@@ -2197,3 +2197,7 @@
   overflow: visible;
   clip: auto;
 }
+
+.importantFeatures{
+  list-style-type: none;
+}
